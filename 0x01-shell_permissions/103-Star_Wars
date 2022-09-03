@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 777 Starwars IV
+xdg-open <StarWars IV episode>
