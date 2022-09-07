@@ -1,4 +1,2 @@
 #!/bin/bash
-echo "Input your list file"
-read list
-uniq $list
+sort |uniq -u
