@@ -1,2 +1,2 @@
 #!/bin/bash
-scan -n -k 1 /etc/passwd
+sort -n -k 1 /etc/passwd
